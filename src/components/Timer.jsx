@@ -47,7 +47,8 @@ const Timer = () => {
                 Start
             </button>
             <button className="buttonClass" onClick={stop}>
-                Stop
+                //Stop
+                Wait
             </button>
             <button className="buttonClass" onClick={reset}>Reset</button>
         </div>
